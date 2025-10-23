@@ -20,7 +20,7 @@ Currently exploring **GSAP** and **Three.js** to bring more life and motion into
 ## 🚀 Skills & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,react,flutter,nextjs,ts,js,php,codeigniter,mysql,firebase,tailwind,bootstrap,github,git,vscode,androidstudio" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=figma,react,flutter,nextjs,ts,js,php,mysql,firebase,tailwind,bootstrap,github,git,vscode,androidstudio" alt="skills"/>
 </p>
 
 🧠 Currently Learning: **GSAP** · **Three.js** · **Modern UI/UX Design**
