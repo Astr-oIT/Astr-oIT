@@ -6,10 +6,6 @@ Passionate about crafting clean and user-focused digital experiences.
 I love blending creativity with code — from building functional web and mobile apps to designing sleek interfaces.  
 Currently exploring **GSAP** and **Three.js** to bring more life and motion into my projects.  
 
----
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&range=all&layout=compact&theme=tokyonight)](https://wakatime.com)  
-[![Bounty 103$](https://img.shields.io/badge/Bounty-103%24-blue?style=for-the-badge)](#) [![Bounty 81$](https://img.shields.io/badge/Bounty-81%24-blue?style=for-the-badge)](#) [![Bounty 7$](https://img.shields.io/badge/Bounty-7%24-blue?style=for-the-badge)](#)
 
 ---
 
@@ -31,23 +27,8 @@ Currently exploring **GSAP** and **Three.js** to bring more life and motion into
 
 ---
 
-## 📱 Featured Projects
-
-- **ExplorePH** — A travel and tourism app built with React Native + Expo.  
-- **Neonora** — LED banner display app for Android.  
-- **Iweather** — Real-time weather app with live updates.  
-- **Barangay Health Management System** — Record management system using PHP + MySQL.  
-- **Inventory System (Cat Café)** — CRUD system for inventory and sales tracking.  
-
----
-
-## 📫 Contact Me
-- 📧 **estacio.gabrielle31@gmail.com**  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/luis-gabrielle-estacio-b99976327/)  
-
----
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Luis's GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Astr-oIT&show_icons=true&theme=tokyonight" alt="Luis's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Astr-oIT&theme=tokyonight" alt="GitHub Trophies" />
 </p>
