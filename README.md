@@ -1,42 +1,53 @@
-# Hi there 👋, I'm Astr-oIT
+# 👋 Hi there, I'm Luis Gabrielle (Astr-oIT)
 
-Addicted to Code, AI, DevOps and Cloud. Currently learning LLMs, RAG, System Design, Web3.
+🎓 4th Year **BSIT Student** | 💻 Aspiring **Frontend & Mobile Developer** | 🎨 **UI/UX Designer**
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&range=all&layout=compact&theme=dark)](https://wakatime.com)  
+Passionate about crafting clean and user-focused digital experiences.  
+I love blending creativity with code — from building functional web and mobile apps to designing sleek interfaces.  
+Currently exploring **GSAP** and **Three.js** to bring more life and motion into my projects.  
+
+---
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&range=all&layout=compact&theme=tokyonight)](https://wakatime.com)  
 [![Bounty 103$](https://img.shields.io/badge/Bounty-103%24-blue?style=for-the-badge)](#) [![Bounty 81$](https://img.shields.io/badge/Bounty-81%24-blue?style=for-the-badge)](#) [![Bounty 7$](https://img.shields.io/badge/Bounty-7%24-blue?style=for-the-badge)](#)
 
 ---
 
 <!-- Social icons -->
-<a href="https://dev.to/yourdevhandle" target="_blank"><img src="https://img.shields.io/badge/DEV-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/luis-gabrielle-estacio-b99976327/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 ---
 
-## 🚀 Skills
+## 🚀 Skills & Tools
 
-<!-- multiple skill icons using skillicons.dev (dark theme) -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,github,git,docker,kubernetes" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=figma,react,flutter,nextjs,ts,js,php,codeigniter,mysql,firebase,tailwind,bootstrap,github,git,vscode,androidstudio" alt="skills"/>
 </p>
 
----
-
-## 📌 Projects & Notes
-
-- Example project 1 — short description
-- Example project 2 — short description
+🧠 Currently Learning: **GSAP** · **Three.js** · **Modern UI/UX Design**
 
 ---
 
-## 📫 How to reach me
-- Website: https://yourdomain.example
-- Email: youremail@example.com
+## 📱 Featured Projects
 
-<!-- Optional GitHub stats (replace USERNAME) -->
+- **ExplorePH** — A travel and tourism app built with React Native + Expo.  
+- **Neonora** — LED banner display app for Android.  
+- **Iweather** — Real-time weather app with live updates.  
+- **Barangay Health Management System** — Record management system using PHP + MySQL.  
+- **Inventory System (Cat Café)** — CRUD system for inventory and sales tracking.  
+
+---
+
+## 📫 Contact Me
+- 📧 **estacio.gabrielle31@gmail.com**  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/luis-gabrielle-estacio-b99976327/)  
+
+---
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="github stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=gruvbox" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Luis's GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Trophies" />
 </p>
