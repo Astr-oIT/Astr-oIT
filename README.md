@@ -1,29 +1,25 @@
 # 👋 Hi there, I'm Luis Gabrielle (Astr-oIT)
 
-### 🎓 BSIT Graduate | 🎨 UI/UX Designer | 💻 Frontend & Mobile Developer 
+### | 🎨 UI/UX Designer | 💻 Frontend & Mobile Developer 
 
-Passionate about crafting clean, high-contrast, and user-focused digital experiences. I specialize in blending creativity with code—from building functional web and mobile apps to designing sleek, glassmorphic interfaces.
+I bridge the gap between aesthetic design and functional code. I specialize in building high-performance web and mobile applications that don't just work—they look stunning.
 
-**Current Focus:** * ✨ Exploring **GSAP** and **Three.js** for high-end web motion.
-* 📱 Developing mobile solutions with **Flutter** and **React Native**.
-* 🛠️ Building scalable frontend architectures with **Next.js** and **Tailwind CSS**.
+UI/UX Expert: Crafting high-fidelity, user-centric interfaces with a focus on Apple-inspired glassmorphism and seamless user journeys.
 
----
+Frontend Specialist: Transforming complex designs into reality using Next.js, React, and Tailwind CSS.
+
+Mobile Developer: Building cross-platform solutions with Flutter and React Native.
+
+Motion Enthusiast: Breathing life into interfaces with GSAP and Three.js for immersive, interactive experiences.
 
 ### 🕹️ Connect with Me
 
 <div align="left">
-<a href="https://discord.com/users/950988892302106655">
-  <img src="https://lanyard.wrapped.run/api/950988892302106655?theme=dark&bg=0d1117&animated=true&hideDisk=false&borderRadius=10px" alt="Discord Presence" />
-</a>
+  <a href="https://discord.com/users/950988892302106655">
+    <img src="https://lanyard.kyrie25.dev/api/950988892302106655?imgStyle=window&animatedDecoration=true&showDisplayName=true&showCollectibles=true&animatedCollectibles=true&hideBanner=false&gradient=1a1b26-7aa2f7-bb9af7&borderRadius=15px" alt="Luis Gabrielle's Discord" width="50%" />
+  </a>
 </div>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luis-gabrielle-estacio-b99976327/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Astr-oIT" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/luisgabrielle__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
----
 
 ## 🚀 Skills & Tools
 
